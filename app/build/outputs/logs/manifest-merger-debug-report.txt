@@ -1,0 +1,177 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/bryan95/Desktop/EPDTypeAutoSample/app/src/main/AndroidManifest.xml:1:1-23:12
+INJECTED from /Users/bryan95/Desktop/EPDTypeAutoSample/app/src/main/AndroidManifest.xml:1:1-23:12
+INJECTED from /Users/bryan95/Desktop/EPDTypeAutoSample/app/src/main/AndroidManifest.xml:1:1-23:12
+INJECTED from /Users/bryan95/Desktop/EPDTypeAutoSample/app/src/main/AndroidManifest.xml:1:1-23:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/bryan95/.gradle/caches/transforms-2/files-2.1/a6d0ca9b7cafd63deb4fc00ce0b753cb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/bryan95/.gradle/caches/transforms-2/files-2.1/db47ded786a282b5de055b8288f0c3a6/AndroidManifest.xml:2:1-11:12
+MERGED from [com.naver.speech.clientapi:naverspeech-sdk-android:1.1.3] /Users/bryan95/.gradle/caches/transforms-2/files-2.1/664c9bdf889e84a77970ba5b3c63d688/AndroidManifest.xml:2:1-17:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/bryan95/.gradle/caches/transforms-2/files-2.1/11eb31125a65b2e287410b769d8d7aed/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/bryan95/.gradle/caches/transforms-2/files-2.1/2b74e4aa6fa3c479cf91a87cdac3ce46/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/bryan95/.gradle/caches/transforms-2/files-2.1/f97facf764ae6644020b31b0e209781c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/bryan95/.gradle/caches/transforms-2/files-2.1/072d2194bf6e535a22ac10b896257f94/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/bryan95/.gradle/caches/transforms-2/files-2.1/5b2d19e19b32d6876b8d2a629e912ebd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/bryan95/.gradle/caches/transforms-2/files-2.1/0867772eea0946b82105be17275ac17f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/bryan95/.gradle/caches/transforms-2/files-2.1/8c2b20404e752d66700786b769feaac3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/bryan95/.gradle/caches/transforms-2/files-2.1/11d00cbf22a44c689f18d06df46d918d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/bryan95/.gradle/caches/transforms-2/files-2.1/4bd7ce00331533230237b6873edc3bf7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/bryan95/.gradle/caches/transforms-2/files-2.1/827dbc1299c9a00501819d80fc43d84b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/bryan95/.gradle/caches/transforms-2/files-2.1/ad398463c6b1d8df5cf88cbaf3e75f86/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/bryan95/.gradle/caches/transforms-2/files-2.1/68240e180eb8fd400431e6d8bae5d7a0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/bryan95/.gradle/caches/transforms-2/files-2.1/43b6331d142a6f6963d66cf87b7048a2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/bryan95/.gradle/caches/transforms-2/files-2.1/dc8789fa6e6ae8d92c1ebf8c5e151de4/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/bryan95/.gradle/caches/transforms-2/files-2.1/cdc1282b37342876057a07a4819e6737/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/bryan95/.gradle/caches/transforms-2/files-2.1/ac82a08252cff2a29aebbbeefadbd429/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/bryan95/.gradle/caches/transforms-2/files-2.1/d78203ea075a2a767828f083b7721c8b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/bryan95/.gradle/caches/transforms-2/files-2.1/fe0cc0019851b92be06dc469bffaa0d0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/bryan95/.gradle/caches/transforms-2/files-2.1/931700b2a224a0923844d9554b1229db/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/bryan95/.gradle/caches/transforms-2/files-2.1/97a705046e22bb5afe34b34d69b4c08e/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/bryan95/.gradle/caches/transforms-2/files-2.1/3b50d606866f9a92e23c926cd06a6253/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/bryan95/.gradle/caches/transforms-2/files-2.1/2191bd53096557101bc46cd7556bd63d/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/bryan95/.gradle/caches/transforms-2/files-2.1/76caceb8dc5844225f3d445282490e3e/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/bryan95/.gradle/caches/transforms-2/files-2.1/44c8e508cc7449f2f694d4738a39bf86/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/bryan95/.gradle/caches/transforms-2/files-2.1/8d564897149e264f93845da66ffef509/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/bryan95/Desktop/EPDTypeAutoSample/app/src/main/AndroidManifest.xml:1:1-23:12
+INJECTED from /Users/bryan95/Desktop/EPDTypeAutoSample/app/src/main/AndroidManifest.xml:1:1-23:12
+INJECTED from /Users/bryan95/Desktop/EPDTypeAutoSample/app/src/main/AndroidManifest.xml:1:1-23:12
+	package
+		ADDED from /Users/bryan95/Desktop/EPDTypeAutoSample/app/src/main/AndroidManifest.xml:2:5-43
+		INJECTED from /Users/bryan95/Desktop/EPDTypeAutoSample/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/bryan95/Desktop/EPDTypeAutoSample/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/bryan95/Desktop/EPDTypeAutoSample/app/src/main/AndroidManifest.xml
+		ADDED from /Users/bryan95/Desktop/EPDTypeAutoSample/app/src/main/AndroidManifest.xml:1:1-23:12
+		INJECTED from /Users/bryan95/Desktop/EPDTypeAutoSample/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/bryan95/Desktop/EPDTypeAutoSample/app/src/main/AndroidManifest.xml
+		ADDED from /Users/bryan95/Desktop/EPDTypeAutoSample/app/src/main/AndroidManifest.xml:1:1-23:12
+		INJECTED from /Users/bryan95/Desktop/EPDTypeAutoSample/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/bryan95/Desktop/EPDTypeAutoSample/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/bryan95/Desktop/EPDTypeAutoSample/app/src/main/AndroidManifest.xml:4:5-67
+MERGED from [com.naver.speech.clientapi:naverspeech-sdk-android:1.1.3] /Users/bryan95/.gradle/caches/transforms-2/files-2.1/664c9bdf889e84a77970ba5b3c63d688/AndroidManifest.xml:12:5-67
+MERGED from [com.naver.speech.clientapi:naverspeech-sdk-android:1.1.3] /Users/bryan95/.gradle/caches/transforms-2/files-2.1/664c9bdf889e84a77970ba5b3c63d688/AndroidManifest.xml:12:5-67
+	android:name
+		ADDED from /Users/bryan95/Desktop/EPDTypeAutoSample/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /Users/bryan95/Desktop/EPDTypeAutoSample/app/src/main/AndroidManifest.xml:5:5-71
+	android:name
+		ADDED from /Users/bryan95/Desktop/EPDTypeAutoSample/app/src/main/AndroidManifest.xml:5:22-68
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/bryan95/Desktop/EPDTypeAutoSample/app/src/main/AndroidManifest.xml:6:5-81
+MERGED from [com.naver.speech.clientapi:naverspeech-sdk-android:1.1.3] /Users/bryan95/.gradle/caches/transforms-2/files-2.1/664c9bdf889e84a77970ba5b3c63d688/AndroidManifest.xml:11:5-81
+MERGED from [com.naver.speech.clientapi:naverspeech-sdk-android:1.1.3] /Users/bryan95/.gradle/caches/transforms-2/files-2.1/664c9bdf889e84a77970ba5b3c63d688/AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from /Users/bryan95/Desktop/EPDTypeAutoSample/app/src/main/AndroidManifest.xml:6:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/bryan95/Desktop/EPDTypeAutoSample/app/src/main/AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from /Users/bryan95/Desktop/EPDTypeAutoSample/app/src/main/AndroidManifest.xml:7:22-77
+application
+ADDED from /Users/bryan95/Desktop/EPDTypeAutoSample/app/src/main/AndroidManifest.xml:8:5-21:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/bryan95/.gradle/caches/transforms-2/files-2.1/db47ded786a282b5de055b8288f0c3a6/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/bryan95/.gradle/caches/transforms-2/files-2.1/db47ded786a282b5de055b8288f0c3a6/AndroidManifest.xml:9:5-20
+MERGED from [com.naver.speech.clientapi:naverspeech-sdk-android:1.1.3] /Users/bryan95/.gradle/caches/transforms-2/files-2.1/664c9bdf889e84a77970ba5b3c63d688/AndroidManifest.xml:14:5-15:19
+MERGED from [com.naver.speech.clientapi:naverspeech-sdk-android:1.1.3] /Users/bryan95/.gradle/caches/transforms-2/files-2.1/664c9bdf889e84a77970ba5b3c63d688/AndroidManifest.xml:14:5-15:19
+MERGED from [com.android.support:support-compat:28.0.0] /Users/bryan95/.gradle/caches/transforms-2/files-2.1/dc8789fa6e6ae8d92c1ebf8c5e151de4/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/bryan95/.gradle/caches/transforms-2/files-2.1/dc8789fa6e6ae8d92c1ebf8c5e151de4/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/bryan95/.gradle/caches/transforms-2/files-2.1/cdc1282b37342876057a07a4819e6737/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/bryan95/.gradle/caches/transforms-2/files-2.1/cdc1282b37342876057a07a4819e6737/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/bryan95/.gradle/caches/transforms-2/files-2.1/dc8789fa6e6ae8d92c1ebf8c5e151de4/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/bryan95/Desktop/EPDTypeAutoSample/app/src/main/AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from /Users/bryan95/Desktop/EPDTypeAutoSample/app/src/main/AndroidManifest.xml:11:9-41
+	android:icon
+		ADDED from /Users/bryan95/Desktop/EPDTypeAutoSample/app/src/main/AndroidManifest.xml:10:9-45
+	android:allowBackup
+		ADDED from /Users/bryan95/Desktop/EPDTypeAutoSample/app/src/main/AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from /Users/bryan95/Desktop/EPDTypeAutoSample/app/src/main/AndroidManifest.xml:13:9-40
+activity#com.naver.naverspeech.client.MainActivity
+ADDED from /Users/bryan95/Desktop/EPDTypeAutoSample/app/src/main/AndroidManifest.xml:14:9-20:20
+	android:name
+		ADDED from /Users/bryan95/Desktop/EPDTypeAutoSample/app/src/main/AndroidManifest.xml:14:19-75
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/bryan95/Desktop/EPDTypeAutoSample/app/src/main/AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from /Users/bryan95/Desktop/EPDTypeAutoSample/app/src/main/AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from /Users/bryan95/Desktop/EPDTypeAutoSample/app/src/main/AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/bryan95/Desktop/EPDTypeAutoSample/app/src/main/AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from /Users/bryan95/Desktop/EPDTypeAutoSample/app/src/main/AndroidManifest.xml:18:27-74
+uses-sdk
+INJECTED from /Users/bryan95/Desktop/EPDTypeAutoSample/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/bryan95/Desktop/EPDTypeAutoSample/app/src/main/AndroidManifest.xml
+INJECTED from /Users/bryan95/Desktop/EPDTypeAutoSample/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/bryan95/.gradle/caches/transforms-2/files-2.1/a6d0ca9b7cafd63deb4fc00ce0b753cb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/bryan95/.gradle/caches/transforms-2/files-2.1/a6d0ca9b7cafd63deb4fc00ce0b753cb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/bryan95/.gradle/caches/transforms-2/files-2.1/db47ded786a282b5de055b8288f0c3a6/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/bryan95/.gradle/caches/transforms-2/files-2.1/db47ded786a282b5de055b8288f0c3a6/AndroidManifest.xml:5:5-7:41
+MERGED from [com.naver.speech.clientapi:naverspeech-sdk-android:1.1.3] /Users/bryan95/.gradle/caches/transforms-2/files-2.1/664c9bdf889e84a77970ba5b3c63d688/AndroidManifest.xml:7:5-9:41
+MERGED from [com.naver.speech.clientapi:naverspeech-sdk-android:1.1.3] /Users/bryan95/.gradle/caches/transforms-2/files-2.1/664c9bdf889e84a77970ba5b3c63d688/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/bryan95/.gradle/caches/transforms-2/files-2.1/11eb31125a65b2e287410b769d8d7aed/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/bryan95/.gradle/caches/transforms-2/files-2.1/11eb31125a65b2e287410b769d8d7aed/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/bryan95/.gradle/caches/transforms-2/files-2.1/2b74e4aa6fa3c479cf91a87cdac3ce46/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/bryan95/.gradle/caches/transforms-2/files-2.1/2b74e4aa6fa3c479cf91a87cdac3ce46/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/bryan95/.gradle/caches/transforms-2/files-2.1/f97facf764ae6644020b31b0e209781c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/bryan95/.gradle/caches/transforms-2/files-2.1/f97facf764ae6644020b31b0e209781c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/bryan95/.gradle/caches/transforms-2/files-2.1/072d2194bf6e535a22ac10b896257f94/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/bryan95/.gradle/caches/transforms-2/files-2.1/072d2194bf6e535a22ac10b896257f94/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/bryan95/.gradle/caches/transforms-2/files-2.1/5b2d19e19b32d6876b8d2a629e912ebd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/bryan95/.gradle/caches/transforms-2/files-2.1/5b2d19e19b32d6876b8d2a629e912ebd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/bryan95/.gradle/caches/transforms-2/files-2.1/0867772eea0946b82105be17275ac17f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/bryan95/.gradle/caches/transforms-2/files-2.1/0867772eea0946b82105be17275ac17f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/bryan95/.gradle/caches/transforms-2/files-2.1/8c2b20404e752d66700786b769feaac3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/bryan95/.gradle/caches/transforms-2/files-2.1/8c2b20404e752d66700786b769feaac3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/bryan95/.gradle/caches/transforms-2/files-2.1/11d00cbf22a44c689f18d06df46d918d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/bryan95/.gradle/caches/transforms-2/files-2.1/11d00cbf22a44c689f18d06df46d918d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/bryan95/.gradle/caches/transforms-2/files-2.1/4bd7ce00331533230237b6873edc3bf7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/bryan95/.gradle/caches/transforms-2/files-2.1/4bd7ce00331533230237b6873edc3bf7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/bryan95/.gradle/caches/transforms-2/files-2.1/827dbc1299c9a00501819d80fc43d84b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/bryan95/.gradle/caches/transforms-2/files-2.1/827dbc1299c9a00501819d80fc43d84b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/bryan95/.gradle/caches/transforms-2/files-2.1/ad398463c6b1d8df5cf88cbaf3e75f86/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/bryan95/.gradle/caches/transforms-2/files-2.1/ad398463c6b1d8df5cf88cbaf3e75f86/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/bryan95/.gradle/caches/transforms-2/files-2.1/68240e180eb8fd400431e6d8bae5d7a0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/bryan95/.gradle/caches/transforms-2/files-2.1/68240e180eb8fd400431e6d8bae5d7a0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/bryan95/.gradle/caches/transforms-2/files-2.1/43b6331d142a6f6963d66cf87b7048a2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/bryan95/.gradle/caches/transforms-2/files-2.1/43b6331d142a6f6963d66cf87b7048a2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/bryan95/.gradle/caches/transforms-2/files-2.1/dc8789fa6e6ae8d92c1ebf8c5e151de4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/bryan95/.gradle/caches/transforms-2/files-2.1/dc8789fa6e6ae8d92c1ebf8c5e151de4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/bryan95/.gradle/caches/transforms-2/files-2.1/cdc1282b37342876057a07a4819e6737/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/bryan95/.gradle/caches/transforms-2/files-2.1/cdc1282b37342876057a07a4819e6737/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/bryan95/.gradle/caches/transforms-2/files-2.1/ac82a08252cff2a29aebbbeefadbd429/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/bryan95/.gradle/caches/transforms-2/files-2.1/ac82a08252cff2a29aebbbeefadbd429/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/bryan95/.gradle/caches/transforms-2/files-2.1/d78203ea075a2a767828f083b7721c8b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/bryan95/.gradle/caches/transforms-2/files-2.1/d78203ea075a2a767828f083b7721c8b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/bryan95/.gradle/caches/transforms-2/files-2.1/fe0cc0019851b92be06dc469bffaa0d0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/bryan95/.gradle/caches/transforms-2/files-2.1/fe0cc0019851b92be06dc469bffaa0d0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/bryan95/.gradle/caches/transforms-2/files-2.1/931700b2a224a0923844d9554b1229db/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/bryan95/.gradle/caches/transforms-2/files-2.1/931700b2a224a0923844d9554b1229db/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/bryan95/.gradle/caches/transforms-2/files-2.1/97a705046e22bb5afe34b34d69b4c08e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/bryan95/.gradle/caches/transforms-2/files-2.1/97a705046e22bb5afe34b34d69b4c08e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/bryan95/.gradle/caches/transforms-2/files-2.1/3b50d606866f9a92e23c926cd06a6253/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/bryan95/.gradle/caches/transforms-2/files-2.1/3b50d606866f9a92e23c926cd06a6253/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/bryan95/.gradle/caches/transforms-2/files-2.1/2191bd53096557101bc46cd7556bd63d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/bryan95/.gradle/caches/transforms-2/files-2.1/2191bd53096557101bc46cd7556bd63d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/bryan95/.gradle/caches/transforms-2/files-2.1/76caceb8dc5844225f3d445282490e3e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/bryan95/.gradle/caches/transforms-2/files-2.1/76caceb8dc5844225f3d445282490e3e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/bryan95/.gradle/caches/transforms-2/files-2.1/44c8e508cc7449f2f694d4738a39bf86/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/bryan95/.gradle/caches/transforms-2/files-2.1/44c8e508cc7449f2f694d4738a39bf86/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/bryan95/.gradle/caches/transforms-2/files-2.1/8d564897149e264f93845da66ffef509/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/bryan95/.gradle/caches/transforms-2/files-2.1/8d564897149e264f93845da66ffef509/AndroidManifest.xml:20:5-44
+INJECTED from /Users/bryan95/Desktop/EPDTypeAutoSample/app/src/main/AndroidManifest.xml
+INJECTED from /Users/bryan95/Desktop/EPDTypeAutoSample/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/bryan95/Desktop/EPDTypeAutoSample/app/src/main/AndroidManifest.xml
+		ADDED from /Users/bryan95/Desktop/EPDTypeAutoSample/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/bryan95/Desktop/EPDTypeAutoSample/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/bryan95/Desktop/EPDTypeAutoSample/app/src/main/AndroidManifest.xml
+		ADDED from /Users/bryan95/Desktop/EPDTypeAutoSample/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/bryan95/Desktop/EPDTypeAutoSample/app/src/main/AndroidManifest.xml
